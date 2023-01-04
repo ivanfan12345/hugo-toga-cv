@@ -13,7 +13,7 @@ experiences:
 - company:
     name: Workday
     url: "https://www.workday.com"
-    location: Boulder, Colorado
+    location: Boulder - CO
     # company overview
     overview: Workday delivers financial management, human capital management, and analytics applications designed for the world’s largest companies, educational institutions, and government agencies.
   positions:
@@ -23,15 +23,15 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Engineer within the Workday Public Cloud team.
+    - Design, develop and manage Workday Services on AWS.
+    - 
 
 - company:
     name: GE Digital
     url: "https://www.ge.com/digital/"
-    location: San Ramon , California
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    location: San Ramon - CA
+    overview: GE Digital enables industrial-scale analytics for asset performance management (APM) and operations optimization by providing a standard way to connect machines, data, and people.
   positions:
   - designation: Staff Software Engineer
     start: Dec 2016
@@ -44,8 +44,8 @@ experiences:
 - company:
     name: Clevyr
     url: "https://www.clevyr.com"
-    location: Oklahoma City , Oklahoma
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    location: Oklahoma City - OK
+    overview: Clevyr is an IT consulting company that develops custom full-stack software solutions for clients.
   positions:
   - designation: Senior Software Engineer
     start: Jul 2016
@@ -58,8 +58,8 @@ experiences:
 - company:
     name: Cisco Systems
     url: "https://www.cisco.com"
-    location: Denver , Colorado
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    location: Denver - CO
+    overview: Cisco Jabber (XMPP) instantly interacts with instant messaging (IM) and presence; IP voice and video telephony; mobile collaboration anywhere on any device.
   positions:
   - designation: Software Engineer 3
     start: Mar 2015
@@ -72,8 +72,8 @@ experiences:
 - company:
     name: TradeStation
     url: "https://www.tradestation.com"
-    location: Dallas , Texas
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    location: Dallas - TX
+    overview: TradeStation trading platform equips traders with power, speed & flexibility to enter the markets with confidence and to seek opportunities.
   positions:
   - designation: Software Engineer 2
     start: Dec 2013
@@ -86,8 +86,8 @@ experiences:
 - company:
     name: NCR Coporation
     url: "https://www.ncr.com"
-    location: Fort Worth , Texas
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    location: Fort Worth - TX
+    overview: NCR is a leader in transforming, connecting and running technology platforms for self-directed banking, stores and restaurants. 
   positions:
   - designation: Software Engineer 2
     start: Oct 2012
@@ -100,8 +100,8 @@ experiences:
 - company:
     name: Lockheed Martin
     url: "https://www.lockheedmartin.com/"
-    location: Fort Worth , Texas
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    location: Fort Worth - TX
+    overview: Lockheed Martin Aeronautics, home of the world renowned Skunk Works®, delivers innovative solutions to support ever-evolving mission needs.
   positions:
   - designation: Software Engineer 1
     start: Jul 2010
