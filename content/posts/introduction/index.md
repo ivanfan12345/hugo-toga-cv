@@ -8,7 +8,7 @@ menu:
     identifier: introduction
     weight: 10
 tags: ["Basic", "Multi-lingual"]
-categories: ["Basic"]
+categories: ["test"]
 ---
 
 Greeting! This is an introduction post. This post tests the followings:

@@ -11,14 +11,14 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Workday
+    url: "https://www.workday.com"
+    location: Boulder, Colorado
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Workday delivers financial management, human capital management, and analytics applications designed for the world’s largest companies, educational institutions, and government agencies.
   positions:
   - designation: Senior Software Engineer
-    start: Nov 2019
+    start: Nov 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -27,38 +27,90 @@ experiences:
     - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
     - Lead backend team.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
-
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
+    name: GE Digital
+    url: "https://www.ge.com/digital/"
+    location: San Ramon , California
     overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Staff Software Engineer
+    start: Dec 2016
+    end: Nov 2021
     responsibilities:
     - Write lots of example codes.
     - Read lots of examples.
     - See lots of example videos.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Clevyr
+    url: "https://www.clevyr.com"
+    location: Oklahoma City , Oklahoma
+    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Senior Software Engineer
+    start: Jul 2016
+    end: Nov 2016
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+- company:
+    name: Cisco Systems
+    url: "https://www.cisco.com"
+    location: Denver , Colorado
+    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Software Engineer 3
+    start: Mar 2015
+    end: Jul 2016
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+- company:
+    name: TradeStation
+    url: "https://www.tradestation.com"
+    location: Dallas , Texas
+    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Software Engineer 2
+    start: Dec 2013
+    end: Feb 2015
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+- company:
+    name: NCR Coporation
+    url: "https://www.ncr.com"
+    location: Fort Worth , Texas
+    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Software Engineer 2
+    start: Oct 2012
+    end: Nov 2013
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+- company:
+    name: Lockheed Martin
+    url: "https://www.lockheedmartin.com/"
+    location: Fort Worth , Texas
+    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Software Engineer 1
+    start: Jul 2010
+    end: Oct 2012
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+
+
+
