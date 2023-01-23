@@ -24,7 +24,7 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Engineer within the Workday Public Cloud team.
-    - Design, develop and manage Workday Services on AWS.
+    - Design, develop and manage Workday Services on Public Cloud environments.
     - 
 
 - company:
@@ -37,9 +37,9 @@ experiences:
     start: Dec 2016
     end: Nov 2021
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Engineer within the GE Digital Cloud Engineering organization.
+    - Design, develop and manage Predix Services in AWS.
+    - Set standards and process for Infrastructure as code changes within GE Digital.
 
 - company:
     name: Clevyr
@@ -51,9 +51,7 @@ experiences:
     start: Jul 2016
     end: Nov 2016
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - full-stack development using MEAN and LAMP stacks.
 
 - company:
     name: Cisco Systems
@@ -65,9 +63,7 @@ experiences:
     start: Mar 2015
     end: Jul 2016
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Develop Automation Framework for depoloyment of JabberXCP server code.
 
 - company:
     name: TradeStation
@@ -79,9 +75,7 @@ experiences:
     start: Dec 2013
     end: Feb 2015
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Develop TradeStation Web APIs in C#.
 
 - company:
     name: NCR Coporation
@@ -93,9 +87,7 @@ experiences:
     start: Oct 2012
     end: Nov 2013
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Develop loss prevention reporting engine for POS systems.
 
 - company:
     name: Lockheed Martin
@@ -107,10 +99,4 @@ experiences:
     start: Jul 2010
     end: Oct 2012
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-
-
-
+    - Write TOP Secret Code.
