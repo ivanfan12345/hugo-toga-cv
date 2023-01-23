@@ -24,7 +24,7 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Engineer within the Workday Public Cloud team.
-    - Design, develop and manage Workday Services on AWS.
+    - Design, develop and manage Workday Services on Public Cloud environments.
     - 
 
 - company:
@@ -37,9 +37,9 @@ experiences:
     start: Dec 2016
     end: Nov 2021
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Engineer within the GE Digital Cloud Engineering organization.
+    - Design, develop and manage Predix Services in AWS.
+    - Set standards and process for Infrastructure as code changes within GE Digital.
 
 - company:
     name: Clevyr
