@@ -23,9 +23,9 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Engineer within the Workday Public Cloud team.
-    - Design, develop and manage Workday Services on Public Cloud environments.
-    - 
+    - Cloud DevOps Engineer within the Workday Public Cloud team.
+    - Design, develop, and deploy Workday Services in AWS.
+    - Run K8s Anywhere.
 
 - company:
     name: GE Digital
@@ -37,9 +37,9 @@ experiences:
     start: Dec 2016
     end: Nov 2021
     responsibilities:
-    - Engineer within the GE Digital Cloud Engineering organization.
+    - Tech Lead within the GE Digital Cloud Engineering organization.
     - Design, develop and manage Predix Services in AWS.
-    - Set standards and process for Infrastructure as code changes within GE Digital.
+    - Set standards and processes for Infrastructure as code changes within GE Digital.
 
 - company:
     name: Clevyr
@@ -51,7 +51,9 @@ experiences:
     start: Jul 2016
     end: Nov 2016
     responsibilities:
-    - full-stack development using MEAN and LAMP stacks.
+    - Full-stack software development leveraging MEAN and LAMP stacks.
+    - Develop 
+    - 
 
 - company:
     name: Cisco Systems
@@ -64,6 +66,7 @@ experiences:
     end: Jul 2016
     responsibilities:
     - Develop Automation Framework for depoloyment of JabberXCP server code.
+    - Improve Deployment process 
 
 - company:
     name: TradeStation
