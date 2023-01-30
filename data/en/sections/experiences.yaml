@@ -52,8 +52,8 @@ experiences:
     end: Nov 2016
     responsibilities:
     - Full-stack software development leveraging MEAN and LAMP stacks.
-    - Develop 
-    - 
+    - Develop and Maintain front-end web applications leveraging Angular/React
+    - Develop and Maintain back-end web APIs written in Node.js with MongoDB datastore.
 
 - company:
     name: Cisco Systems
@@ -66,7 +66,8 @@ experiences:
     end: Jul 2016
     responsibilities:
     - Develop Automation Framework for depoloyment of JabberXCP server code.
-    - Improve Deployment process 
+    - Improve deployment frequency to production systems by 100x. 
+    - Improve functional/unit test coverage for JabberXCP server code to 99% code-base coverage.
 
 - company:
     name: TradeStation
@@ -79,6 +80,7 @@ experiences:
     end: Feb 2015
     responsibilities:
     - Develop TradeStation Web APIs in C#.
+    - Develop CI/CD pipeline and automated test framework for TradeStation Web API.
 
 - company:
     name: NCR Coporation
