@@ -23,7 +23,7 @@ skills:
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Worked with most of the major clouds such as AWS , GCP , and Azure."
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
@@ -46,4 +46,9 @@ skills:
 
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Professional C/C++ programming experience. "
+
+- name: Python
+  logo: /images/sections/skills/Python-logo-notext.svg
+  summary: "Professional Python programming experience. "
+
