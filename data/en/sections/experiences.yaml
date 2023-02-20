@@ -65,7 +65,7 @@ experiences:
     start: Mar 2015
     end: Jul 2016
     responsibilities:
-    - Develop Automation Framework for depoloyment of JabberXCP server code.
+    - Develop Automation Framework for deployment of JabberXCP server code.
     - Improve deployment frequency to production systems by 100x. 
     - Improve functional/unit test coverage for JabberXCP server code to 99% code-base coverage.
 
@@ -83,7 +83,7 @@ experiences:
     - Develop CI/CD pipeline and automated test framework for TradeStation Web API.
 
 - company:
-    name: NCR Coporation
+    name: NCR Corporation
     url: "https://www.ncr.com"
     location: Fort Worth - TX
     overview: NCR is a leader in transforming, connecting and running technology platforms for self-directed banking, stores and restaurants. 
@@ -93,6 +93,7 @@ experiences:
     end: Nov 2013
     responsibilities:
     - Develop loss prevention reporting engine for POS systems.
+    - Retool application for unicode compatibility to expand in international markets.
 
 - company:
     name: Lockheed Martin
@@ -104,4 +105,5 @@ experiences:
     start: Jul 2010
     end: Oct 2012
     responsibilities:
-    - Develop TOP Secret Code.
+    - Develop integration/functional/unit tests for F35 communication subsystems.
+    - Develop TOP Secret Code. 
