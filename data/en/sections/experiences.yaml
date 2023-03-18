@@ -93,8 +93,8 @@ experiences:
     end: Nov 2013
     responsibilities:
     - Develop loss prevention reporting engine for POS systems.
-    - Retool application for unicode compatibility to expand in international markets.
-
+    - Refactor application for unicode compatibility to expand in international markets.
+    - Develop fixes for software defects within the Restraunt Gaurd application.
 - company:
     name: Lockheed Martin
     url: "https://www.lockheedmartin.com/"
