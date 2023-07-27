@@ -1,19 +1,19 @@
 ---
-title: "Rich Content"
-date: 2020-06-08T08:06:25+06:00
-description: Sample post with multiple images, embedded video ect.
+title: "Ivan Day 111"
+date: 2023-04-05T08:06:25+06:00
+description: Day in the life of daddy day care.
 menu:
   sidebar:
-    name: Rich Content
-    identifier: rich-content
-    parent: sub-category
+    name: Ivan Day 111
+    identifier: ivan-04052023
+    parent: D.I.T.L.
     weight: 10
 hero: images/forest.jpg
 tags: ["Markdown","Content Organization","Multi-lingual"]
 categories: ["Basic"]
 ---
 
-This sample post tests the followings:
+This is a day in the life of Ivan daddy day care:
 
 - Category, sub-category nesting in the sidebar.
 - Hero image and other images are in `images` folder inside this post directory.
