@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a software engineer with 12 years of working experience. I help build internet-scale services on AWS/Azure/GCP.'
+summary: 'I am a software engineer with 13 years of professional work experience. I help build internet-scale services on AWS/Azure/GCP.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -40,17 +40,16 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/resume.pdf"
+  url: "files/Ivan_Fan_Resume_09042021.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
-# badges:
-# - type: certification
-#   name: Certified Kubernetes Security Specialist
-#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-#   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
-
+badges:
+- type: certification
+  name: Certified Kubernetes Security Specialist
+  url: "https://www.credly.com/badges/11e7464e-7693-4de5-95d1-a16e512be39d/public_url"
+  badge: "https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
 # - type: soft-skill-indicator
 #   name: Leadership
 #   percentage: 85
@@ -66,7 +65,7 @@ resourceLinks:
 #   percentage: 85
 #   color: orange
 
-# you can also provide color code instead of the color name
+# # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1
 #   percentage: 75
