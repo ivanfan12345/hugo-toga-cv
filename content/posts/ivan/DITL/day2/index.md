@@ -9,8 +9,12 @@ menu:
     parent: D.I.T.L.
     weight: 10
 hero: images/forest.jpg
-tags: ["Markdown","Content Organization","Multi-lingual"]
-categories: ["Basic"]
+tags:
+- Markdown
+- Content Organization
+- Multi-lingual
+categories:
+- Basic
 ---
 
 This is a day in the life of Ivan daddy day care:
