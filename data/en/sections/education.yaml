@@ -16,6 +16,8 @@ degrees:
   institution:
     name: University of Texas at Arlington
     url: "https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse"
+    logo: /images/sections/education/UTA_CSE.png
+    darkLogo: /images/sections/education/UTA_CSE_DARK2.png
   grade: #(optional)
     scale: GPA
     achieved: 3.4
