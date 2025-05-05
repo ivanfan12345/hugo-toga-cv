@@ -14,6 +14,9 @@ experiences:
     name: Workday
     url: "https://www.workday.com"
     location: Boulder - CO
+    logo: /images/sections/experiences/wday_navy_icon.webp
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
     overview: Workday delivers financial management, human capital management, and analytics applications designed for the world’s largest companies, educational institutions, and government agencies.
   positions:
@@ -31,6 +34,7 @@ experiences:
     name: GE Digital
     url: "https://www.ge.com/digital/"
     location: San Ramon - CA
+    logo: /images/sections/experiences/General_Electric_logo.svg.png
     overview: GE Digital enables industrial-scale analytics for asset performance management (APM) and operations optimization by providing a standard way to connect machines, data, and people.
   positions:
   - designation: Staff Software Engineer
@@ -45,6 +49,7 @@ experiences:
     name: Clevyr
     url: "https://www.clevyr.com"
     location: Oklahoma City - OK
+    logo: /images/sections/experiences/Clevyr_Logo.jpg
     overview: Clevyr is an IT consulting company that develops custom full-stack software solutions for clients.
   positions:
   - designation: Senior Software Engineer
@@ -59,6 +64,7 @@ experiences:
     name: Cisco Systems
     url: "https://www.cisco.com"
     location: Denver - CO
+    logo: /images/sections/experiences/cisco-blue.jpg
     overview: Cisco Jabber (XMPP) instantly interacts with instant messaging (IM) and presence; IP voice and video telephony; mobile collaboration anywhere on any device.
   positions:
   - designation: Software Engineer 3
@@ -72,6 +78,7 @@ experiences:
 - company:
     name: TradeStation
     url: "https://www.tradestation.com"
+    logo: /images/sections/experiences/tradestation.jpg
     location: Dallas - TX
     overview: TradeStation trading platform equips traders with power, speed & flexibility to enter the markets with confidence and to seek opportunities.
   positions:
@@ -86,6 +93,7 @@ experiences:
     name: NCR Corporation
     url: "https://www.ncr.com"
     location: Fort Worth - TX
+    logo: /images/sections/experiences/NCR.jpg
     overview: NCR is a leader in transforming, connecting and running technology platforms for self-directed banking, stores and restaurants. 
   positions:
   - designation: Software Engineer 2
@@ -99,6 +107,7 @@ experiences:
     name: Lockheed Martin
     url: "https://www.lockheedmartin.com/"
     location: Fort Worth - TX
+    logo: /images/sections/experiences/LMT.jpg
     overview: Lockheed Martin Aeronautics, home of the world renowned Skunk Works®, delivers innovative solutions to support ever-evolving mission needs.
   positions:
   - designation: Software Engineer 1
