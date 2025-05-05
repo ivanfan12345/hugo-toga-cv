@@ -1,8 +1,5 @@
 baseURL: https://hugo-toha.github.io
 
-languageCode: bn
-title: "Ivan Fan"
-
 # Use Hugo modules to add theme
 module:
   imports:
@@ -23,7 +20,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Ivan Fan"
+    title: "Ivan's 🌎"
     weight: 1
 # default language for the content
 defaultContentLanguage: en

@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a software engineer with 13 years of professional work experience. I help build internet-scale services on AWS/Azure/GCP.'
+summary: 'I am a software engineer with 15 years of professional work experience. I help build internet-scale services on AWS/Azure/GCP.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -35,15 +35,6 @@ socialLinks:
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/ivanfan/"
-
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
-
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
